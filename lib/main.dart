@@ -8,7 +8,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 void main() {
   runApp(DevicePreview(
     builder: (context) => const MyApp(),
-    enabled: true,
+    enabled: false,
   ));
 }
 
